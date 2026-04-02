@@ -1,4 +1,4 @@
-# Hardening Debian - Normes ANSSI
+# Hardening Debian - Normes ANSSI ![Architecture Réseau Sécurisée](schema-reseau.png)
 Projet de sécurisation et d'automatisation d'un serveur Debian 11/12, réalisé dans le cadre de mes travaux sur la cybersécurité et l'administration système.
 
 ## Description
